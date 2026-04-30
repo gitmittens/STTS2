@@ -1,0 +1,25 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "oak",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/oak_stick" }
+      },
+      {
+        "when": "spruce",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/spruce_stick" }
+      },
+      {
+        "when": "birch",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/birch_stick" }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/stick"
+    }
+  }
+}
