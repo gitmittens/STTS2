@@ -15,6 +15,18 @@
       {
         "when": "birch",
         "model": { "type": "minecraft:model", "model": "stts:item/stick/birch_stick" }
+      },
+      {
+        "when": "jungle",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/jungle_stick" }
+      },
+      {
+        "when": "acacia",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/acacia_stick" }
+      },
+      {
+        "when": "dark_oak",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/dark_oak_stick" }
       }
     ],
     "fallback": {
