@@ -27,6 +27,30 @@
       {
         "when": "dark_oak",
         "model": { "type": "minecraft:model", "model": "stts:item/stick/dark_oak_stick" }
+      },
+      {
+        "when": "mangrove",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/mangrove_stick" }
+      },
+      {
+        "when": "cherry",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/cherry_stick" }
+      },
+      {
+        "when": "pale_oak",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/pale_oak_stick" }
+      },
+      {
+        "when": "bamboo",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/bamboo_stick" }
+      },
+      {
+        "when": "crimson",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/crimson_stick" }
+      },
+      {
+        "when": "warped",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/warped_stick" }
       }
     ],
     "fallback": {
