@@ -1,6 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "stts:item/stick/dry_stick"
-    }
-}
