@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "oak",
+        "model": { "type": "minecraft:model", "model": "stts:item/hoe/oak_hoe" }
+      },
+      {
+        "when": "spruce",
+        "model": { "type": "minecraft:model", "model": "stts:item/hoe/spruce_hoe" }
+      },
+      {
+        "when": "birch",
+        "model": { "type": "minecraft:model", "model": "stts:item/hoe/birch_hoe" }
+      },
+      {
+        "when": "jungle",
+        "model": { "type": "minecraft:model", "model": "stts:item/hoe/jungle_hoe" }
+      },
+      {
+        "when": "acacia",
+        "model": { "type": "minecraft:model", "model": "stts:item/hoe/acacia_hoe" }
+      },
+      {
+        "when": "dark_oak",
+        "model": { "type": "minecraft:model", "model": "stts:item/hoe/dark_oak_hoe" }
+      },
+      {
+        "when": "mangrove",
+        "model": { "type": "minecraft:model", "model": "stts:item/hoe/mangrove_hoe" }
+      },
+      {
+        "when": "cherry",
+        "model": { "type": "minecraft:model", "model": "stts:item/hoe/cherry_hoe" }
+      },
+      {
+        "when": "pale_oak",
+        "model": { "type": "minecraft:model", "model": "stts:item/hoe/pale_oak_hoe" }
+      },
+      {
+        "when": "bamboo",
+        "model": { "type": "minecraft:model", "model": "stts:item/hoe/bamboo_hoe" }
+      },
+      {
+        "when": "crimson",
+        "model": { "type": "minecraft:model", "model": "stts:item/hoe/crimson_hoe" }
+      },
+      {
+        "when": "warped",
+        "model": { "type": "minecraft:model", "model": "stts:item/hoe/warped_hoe" }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/wooden_hoe"
+    }
+  }
+}

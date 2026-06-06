@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "oak",
+        "model": { "type": "minecraft:model", "model": "stts:item/spear/oak_spear" }
+      },
+      {
+        "when": "spruce",
+        "model": { "type": "minecraft:model", "model": "stts:item/spear/spruce_spear" }
+      },
+      {
+        "when": "birch",
+        "model": { "type": "minecraft:model", "model": "stts:item/spear/birch_spear" }
+      },
+      {
+        "when": "jungle",
+        "model": { "type": "minecraft:model", "model": "stts:item/spear/jungle_spear" }
+      },
+      {
+        "when": "acacia",
+        "model": { "type": "minecraft:model", "model": "stts:item/spear/acacia_spear" }
+      },
+      {
+        "when": "dark_oak",
+        "model": { "type": "minecraft:model", "model": "stts:item/spear/dark_oak_spear" }
+      },
+      {
+        "when": "mangrove",
+        "model": { "type": "minecraft:model", "model": "stts:item/spear/mangrove_spear" }
+      },
+      {
+        "when": "cherry",
+        "model": { "type": "minecraft:model", "model": "stts:item/spear/cherry_spear" }
+      },
+      {
+        "when": "pale_oak",
+        "model": { "type": "minecraft:model", "model": "stts:item/spear/pale_oak_spear" }
+      },
+      {
+        "when": "bamboo",
+        "model": { "type": "minecraft:model", "model": "stts:item/spear/bamboo_spear" }
+      },
+      {
+        "when": "crimson",
+        "model": { "type": "minecraft:model", "model": "stts:item/spear/crimson_spear" }
+      },
+      {
+        "when": "warped",
+        "model": { "type": "minecraft:model", "model": "stts:item/spear/warped_spear" }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/wooden_spear"
+    }
+  }
+}

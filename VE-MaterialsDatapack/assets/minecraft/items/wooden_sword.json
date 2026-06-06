@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "oak",
+        "model": { "type": "minecraft:model", "model": "stts:item/sword/oak_sword" }
+      },
+      {
+        "when": "spruce",
+        "model": { "type": "minecraft:model", "model": "stts:item/sword/spruce_sword" }
+      },
+      {
+        "when": "birch",
+        "model": { "type": "minecraft:model", "model": "stts:item/sword/birch_sword" }
+      },
+      {
+        "when": "jungle",
+        "model": { "type": "minecraft:model", "model": "stts:item/sword/jungle_sword" }
+      },
+      {
+        "when": "acacia",
+        "model": { "type": "minecraft:model", "model": "stts:item/sword/acacia_sword" }
+      },
+      {
+        "when": "dark_oak",
+        "model": { "type": "minecraft:model", "model": "stts:item/sword/dark_oak_sword" }
+      },
+      {
+        "when": "mangrove",
+        "model": { "type": "minecraft:model", "model": "stts:item/sword/mangrove_sword" }
+      },
+      {
+        "when": "cherry",
+        "model": { "type": "minecraft:model", "model": "stts:item/sword/cherry_sword" }
+      },
+      {
+        "when": "pale_oak",
+        "model": { "type": "minecraft:model", "model": "stts:item/sword/pale_oak_sword" }
+      },
+      {
+        "when": "bamboo",
+        "model": { "type": "minecraft:model", "model": "stts:item/sword/bamboo_sword" }
+      },
+      {
+        "when": "crimson",
+        "model": { "type": "minecraft:model", "model": "stts:item/sword/crimson_sword" }
+      },
+      {
+        "when": "warped",
+        "model": { "type": "minecraft:model", "model": "stts:item/sword/warped_sword" }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/wooden_sword"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sticks",
+  "pattern": [
+    "ppp",
+    " s ",
+    " s "
+  ],
+  "key": {
+    "p": "minecraft:mangrove_planks",
+    "s": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "count": 1,
+    "components": {
+      "minecraft:custom_model_data": {
+        "strings": ["mangrove"]
+      }
+    }
+  }
+}

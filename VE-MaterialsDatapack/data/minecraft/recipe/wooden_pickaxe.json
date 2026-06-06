@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sticks",
+  "pattern": [
+    "###",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": "minecraft:barrier"
+  },
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "count": 1,
+    "components": {
+      "minecraft:custom_model_data": {
+        "strings": ["oak"]
+      }
+    }
+  }
+}
