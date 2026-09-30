@@ -2,16 +2,15 @@
   "type": "minecraft:crafting_shaped",
   "group": "sticks",
   "pattern": [
-    "###",
-    " # ",
-    " # "
+    "#",
+    "#"
   ],
   "key": {
-    "#": "minecraft:barrier"
+    "#": "minecraft:oak_planks"
   },
   "result": {
-    "id": "minecraft:wooden_pickaxe",
-    "count": 1,
+    "id": "minecraft:stick",
+    "count": 4,
     "components": {
       "minecraft:custom_model_data": {
         "strings": ["oak"]
