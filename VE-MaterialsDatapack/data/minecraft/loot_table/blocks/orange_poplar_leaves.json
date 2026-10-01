@@ -15,7 +15,7 @@
                   "minecraft:tool/can_silk_touch"
                 ]
               },
-              "name": "minecraft:pale_oak_leaves"
+              "name": "minecraft:orange_poplar_leaves"
             },
             {
               "type": "minecraft:item",
@@ -37,7 +37,7 @@
                   }
                 ]
               },
-              "name": "minecraft:pale_oak_sapling"
+              "name": "minecraft:poplar_sapling"
             }
           ]
         }
@@ -74,7 +74,7 @@
               "type": "minecraft:set_custom_model_data",
               "strings": {
                 "values": [
-                  "pale_oak"
+                  "poplar"
                 ],
                 "mode": "append"
               }
@@ -97,5 +97,5 @@
       "rolls": 1
     }
   ],
-  "random_sequence": "minecraft:blocks/pale_oak_leaves"
+  "random_sequence": "minecraft:blocks/orange_poplar_leaves"
 }
