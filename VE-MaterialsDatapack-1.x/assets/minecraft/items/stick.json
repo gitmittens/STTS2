@@ -6,59 +6,59 @@
     "cases": [
       {
         "when": "oak",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/oak_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/oak_stick" }
       },
       {
         "when": "spruce",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/spruce_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/spruce_stick" }
       },
       {
         "when": "birch",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/birch_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/birch_stick" }
       },
       {
         "when": "jungle",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/jungle_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/jungle_stick" }
       },
       {
         "when": "acacia",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/acacia_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/acacia_stick" }
       },
       {
         "when": "dark_oak",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/dark_oak_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/dark_oak_stick" }
       },
       {
         "when": "mangrove",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/mangrove_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/mangrove_stick" }
       },
       {
         "when": "cherry",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/cherry_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/cherry_stick" }
       },
       {
         "when": "pale_oak",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/pale_oak_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/pale_oak_stick" }
       },
       {
         "when": "bamboo",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/bamboo_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/bamboo_stick" }
       },
       {
         "when": "crimson",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/crimson_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/crimson_stick" }
       },
       {
         "when": "warped",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/warped_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/warped_stick" }
       },
       {
         "when": "dried",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/dried_stick" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/dried_stick" }
       },
       {
         "when": "poplar",
-        "model": { "type": "minecraft:model", "model": "stts:item/stick/poplar" }
+        "model": { "type": "minecraft:model", "model": "materials:item/stick/poplar_stick" }
       }
     ],
     "fallback": {

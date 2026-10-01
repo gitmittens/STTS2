@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "stts:item/stick/crimson_stick"
+        "layer0": "materials:item/stick/poplar_stick"
     }
 }
