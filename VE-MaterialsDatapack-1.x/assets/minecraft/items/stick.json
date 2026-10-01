@@ -55,6 +55,10 @@
       {
         "when": "dried",
         "model": { "type": "minecraft:model", "model": "stts:item/stick/dried_stick" }
+      },
+      {
+        "when": "poplar",
+        "model": { "type": "minecraft:model", "model": "stts:item/stick/poplar" }
       }
     ],
     "fallback": {

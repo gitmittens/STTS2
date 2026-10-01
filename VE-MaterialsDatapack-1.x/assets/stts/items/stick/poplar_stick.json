@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "materials:item/stick/pale_oak_stick"
+        "model": "materials:item/stick/poplar"
     }
 }

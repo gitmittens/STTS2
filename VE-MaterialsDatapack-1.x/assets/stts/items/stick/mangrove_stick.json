@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "food:item/stick/mangrove_stick"
+        "model": "materials:item/stick/mangrove_stick"
     }
 }

@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "food:item/stick/oak_stick"
+        "model": "materials:item/stick/oak_stick"
     }
 }

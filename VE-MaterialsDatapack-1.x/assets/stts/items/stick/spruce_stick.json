@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "food:item/stick/spruce_stick"
+        "model": "materials:item/stick/spruce_stick"
     }
 }
