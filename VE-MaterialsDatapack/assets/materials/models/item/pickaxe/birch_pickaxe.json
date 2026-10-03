@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "stts:item/pickaxe/birch_pickaxe"
+        "layer0": "materials:item/pickaxe/birch_pickaxe"
     }
 }

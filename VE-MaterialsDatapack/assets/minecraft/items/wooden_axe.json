@@ -6,51 +6,55 @@
     "cases": [
       {
         "when": "oak",
-        "model": { "type": "minecraft:model", "model": "stts:item/axe/oak_axe" }
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/oak_axe" }
       },
       {
         "when": "spruce",
-        "model": { "type": "minecraft:model", "model": "stts:item/axe/spruce_axe" }
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/spruce_axe" }
       },
       {
         "when": "birch",
-        "model": { "type": "minecraft:model", "model": "stts:item/axe/birch_axe" }
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/birch_axe" }
       },
       {
         "when": "jungle",
-        "model": { "type": "minecraft:model", "model": "stts:item/axe/jungle_axe" }
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/jungle_axe" }
       },
       {
         "when": "acacia",
-        "model": { "type": "minecraft:model", "model": "stts:item/axe/acacia_axe" }
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/acacia_axe" }
       },
       {
         "when": "dark_oak",
-        "model": { "type": "minecraft:model", "model": "stts:item/axe/dark_oak_axe" }
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/dark_oak_axe" }
       },
       {
         "when": "mangrove",
-        "model": { "type": "minecraft:model", "model": "stts:item/axe/mangrove_axe" }
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/mangrove_axe" }
       },
       {
         "when": "cherry",
-        "model": { "type": "minecraft:model", "model": "stts:item/axe/cherry_axe" }
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/cherry_axe" }
       },
       {
         "when": "pale_oak",
-        "model": { "type": "minecraft:model", "model": "stts:item/axe/pale_oak_axe" }
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/pale_oak_axe" }
       },
       {
         "when": "bamboo",
-        "model": { "type": "minecraft:model", "model": "stts:item/axe/bamboo_axe" }
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/bamboo_axe" }
       },
       {
         "when": "crimson",
-        "model": { "type": "minecraft:model", "model": "stts:item/axe/crimson_axe" }
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/crimson_axe" }
       },
       {
         "when": "warped",
-        "model": { "type": "minecraft:model", "model": "stts:item/axe/warped_axe" }
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/warped_axe" }
+      },
+      {
+        "when": "poplar",
+        "model": { "type": "minecraft:model", "model": "materials:item/axe/poplar_axe" }
       }
     ],
     "fallback": {

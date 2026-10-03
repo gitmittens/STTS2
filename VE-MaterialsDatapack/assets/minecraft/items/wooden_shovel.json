@@ -6,51 +6,55 @@
     "cases": [
       {
         "when": "oak",
-        "model": { "type": "minecraft:model", "model": "stts:item/shovel/oak_shovel" }
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/oak_shovel" }
       },
       {
         "when": "spruce",
-        "model": { "type": "minecraft:model", "model": "stts:item/shovel/spruce_shovel" }
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/spruce_shovel" }
       },
       {
         "when": "birch",
-        "model": { "type": "minecraft:model", "model": "stts:item/shovel/birch_shovel" }
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/birch_shovel" }
       },
       {
         "when": "jungle",
-        "model": { "type": "minecraft:model", "model": "stts:item/shovel/jungle_shovel" }
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/jungle_shovel" }
       },
       {
         "when": "acacia",
-        "model": { "type": "minecraft:model", "model": "stts:item/shovel/acacia_shovel" }
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/acacia_shovel" }
       },
       {
         "when": "dark_oak",
-        "model": { "type": "minecraft:model", "model": "stts:item/shovel/dark_oak_shovel" }
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/dark_oak_shovel" }
       },
       {
         "when": "mangrove",
-        "model": { "type": "minecraft:model", "model": "stts:item/shovel/mangrove_shovel" }
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/mangrove_shovel" }
       },
       {
         "when": "cherry",
-        "model": { "type": "minecraft:model", "model": "stts:item/shovel/cherry_shovel" }
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/cherry_shovel" }
       },
       {
         "when": "pale_oak",
-        "model": { "type": "minecraft:model", "model": "stts:item/shovel/pale_oak_shovel" }
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/pale_oak_shovel" }
       },
       {
         "when": "bamboo",
-        "model": { "type": "minecraft:model", "model": "stts:item/shovel/bamboo_shovel" }
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/bamboo_shovel" }
       },
       {
         "when": "crimson",
-        "model": { "type": "minecraft:model", "model": "stts:item/shovel/crimson_shovel" }
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/crimson_shovel" }
       },
       {
         "when": "warped",
-        "model": { "type": "minecraft:model", "model": "stts:item/shovel/warped_shovel" }
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/warped_shovel" }
+      },
+      {
+        "when": "poplar",
+        "model": { "type": "minecraft:model", "model": "materials:item/shovel/poplar_shovel" }
       }
     ],
     "fallback": {

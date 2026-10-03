@@ -6,51 +6,55 @@
     "cases": [
       {
         "when": "oak",
-        "model": { "type": "minecraft:model", "model": "stts:item/sword/oak_sword" }
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/oak_sword" }
       },
       {
         "when": "spruce",
-        "model": { "type": "minecraft:model", "model": "stts:item/sword/spruce_sword" }
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/spruce_sword" }
       },
       {
         "when": "birch",
-        "model": { "type": "minecraft:model", "model": "stts:item/sword/birch_sword" }
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/birch_sword" }
       },
       {
         "when": "jungle",
-        "model": { "type": "minecraft:model", "model": "stts:item/sword/jungle_sword" }
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/jungle_sword" }
       },
       {
         "when": "acacia",
-        "model": { "type": "minecraft:model", "model": "stts:item/sword/acacia_sword" }
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/acacia_sword" }
       },
       {
         "when": "dark_oak",
-        "model": { "type": "minecraft:model", "model": "stts:item/sword/dark_oak_sword" }
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/dark_oak_sword" }
       },
       {
         "when": "mangrove",
-        "model": { "type": "minecraft:model", "model": "stts:item/sword/mangrove_sword" }
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/mangrove_sword" }
       },
       {
         "when": "cherry",
-        "model": { "type": "minecraft:model", "model": "stts:item/sword/cherry_sword" }
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/cherry_sword" }
       },
       {
         "when": "pale_oak",
-        "model": { "type": "minecraft:model", "model": "stts:item/sword/pale_oak_sword" }
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/pale_oak_sword" }
       },
       {
         "when": "bamboo",
-        "model": { "type": "minecraft:model", "model": "stts:item/sword/bamboo_sword" }
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/bamboo_sword" }
       },
       {
         "when": "crimson",
-        "model": { "type": "minecraft:model", "model": "stts:item/sword/crimson_sword" }
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/crimson_sword" }
       },
       {
         "when": "warped",
-        "model": { "type": "minecraft:model", "model": "stts:item/sword/warped_sword" }
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/warped_sword" }
+      },
+      {
+        "when": "poplar",
+        "model": { "type": "minecraft:model", "model": "materials:item/sword/poplar_sword" }
       }
     ],
     "fallback": {

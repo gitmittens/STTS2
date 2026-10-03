@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "food:item/pickaxe/birch_pickaxe"
+        "model": "materials:item/pickaxe/birch_pickaxe"
     }
 }
